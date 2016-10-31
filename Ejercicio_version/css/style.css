@@ -1,0 +1,39 @@
+.btn-firts{
+    background-color: #5882FA;
+    width: 255px;
+    height: 40px;
+    color:white;
+    display: block;
+}
+
+.inputbox{
+	width: 250px;
+    height: 60px;
+}
+
+.save{
+    background-color: #08298A;
+    width: 250px;
+    height: 40px;
+    color:white;
+   	display: block;
+}
+
+div{
+    display: inline-block;
+}
+
+.introtext{
+    width: 250px;
+    height: 60px;
+    display: block;
+}
+
+h1{
+    text-align: center;
+}
+
+.scroll {
+    white-space:nowrap;
+}
+
